@@ -34,15 +34,11 @@ It’s made to spread awareness among **rural and semi-urban areas** using AI an
 
 ---
 
-## 📁 Folder Structure
-
-|AI-Driven-Public-Health-Chatbot/|
-|│|
-|├── client/ → React frontend|
-|├── server/ → Node backend|
-|├── rasa_bot/ → Chatbot logic|
-|└── README.md|
-
+| Folder | Technology/Role | Description |
+| :--- | :--- | :--- |
+| `client/` | **React** (Frontend) | The user interface for interacting with the chatbot and viewing responses. |
+| `server/` | **Node.js/Express** (Backend API) | Handles communication between the React frontend and the Rasa chatbot service. Manages user sessions, history, and potentially database interactions. |
+| `rasa_bot/` | **Rasa** (Chatbot Core) | The AI engine. Contains all NLU models, stories, actions (Python code for custom logic), and domain configuration. |
 ---
 
 ---
