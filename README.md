@@ -2,9 +2,6 @@
 
 # 🩺 AI-Driven Public Health Chatbot
 
-### 👨‍💻 Author: Prabhat Yadav  
-GitHub: [Prabhat0018](https://github.com/Prabhat0018)
-
 ---
 
 ## 📘 About the Project
