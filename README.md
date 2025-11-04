@@ -41,6 +41,7 @@ It’s made to spread awareness among **rural and semi-urban areas** using AI an
 ---
 
 ## 🧑‍💻 How to Run
+After adding don't forget to install the libaries like npm 
 
 ### 1️⃣ Clone this repo
 ```bash
